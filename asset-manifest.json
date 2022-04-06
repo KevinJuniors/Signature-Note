@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/KevinJuniors/Signature-Note/static/css/main.7d85b710.css",
-    "main.js": "/KevinJuniors/Signature-Note/static/js/main.692a8f80.js",
-    "static/js/787.57081b25.chunk.js": "/KevinJuniors/Signature-Note/static/js/787.57081b25.chunk.js",
-    "index.html": "/KevinJuniors/Signature-Note/index.html",
-    "main.7d85b710.css.map": "/KevinJuniors/Signature-Note/static/css/main.7d85b710.css.map",
-    "main.692a8f80.js.map": "/KevinJuniors/Signature-Note/static/js/main.692a8f80.js.map",
-    "787.57081b25.chunk.js.map": "/KevinJuniors/Signature-Note/static/js/787.57081b25.chunk.js.map"
+    "main.css": "/Signature-Note/static/css/main.7d85b710.css",
+    "main.js": "/Signature-Note/static/js/main.3363f750.js",
+    "static/js/787.57081b25.chunk.js": "/Signature-Note/static/js/787.57081b25.chunk.js",
+    "index.html": "/Signature-Note/index.html",
+    "main.7d85b710.css.map": "/Signature-Note/static/css/main.7d85b710.css.map",
+    "main.3363f750.js.map": "/Signature-Note/static/js/main.3363f750.js.map",
+    "787.57081b25.chunk.js.map": "/Signature-Note/static/js/787.57081b25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d85b710.css",
-    "static/js/main.692a8f80.js"
+    "static/js/main.3363f750.js"
   ]
 }
